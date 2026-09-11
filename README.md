@@ -1,45 +1,46 @@
-# Projeto Social
+# Social Project
 
-Este projeto consiste em uma página web que **simula a interface de um celular**, utilizando HTML e CSS.
+This project consists of a web page that **simulates a mobile phone interface**, using HTML and CSS.
 
-Dentro da interface, são apresentados botões que direcionam o usuário para diferentes **redes sociais e links** (Não ha nenhum link por enquanto, é apenas um teste), criando a aparência de um pequeno dispositivo interativo.
+Inside the interface, there are buttons designed to direct the user to different **social media platforms and links**. (There are no actual links for now; it is just a test.) The goal is to create the appearance of a small interactive device.
 
-## Características
+## Features
 
-*  Interface inspirada em um celular
-*  Botões com links para redes sociais
-*  Estilização utilizando CSS
-*  Interface simples e interativa
-*  Organização dos elementos para simular a tela de um dispositivo móvel
+* Interface inspired by a mobile phone
+* Buttons for social media links
+* Styling using CSS
+* Simple and interactive interface
+* Organized elements designed to simulate a mobile device screen
 
-##  Tecnologias utilizadas
+## Technologies Used
 
-HTML5 e CSS3 para a criação do codigo
+HTML5 and CSS3 were used to create the project.
 
-##  Objetivo
+## Objective
 
-O objetivo deste projeto foi praticar a criação de **interfaces utilizando HTML e CSS**, trabalhando principalmente com posicionamento, estilização, botões e links.
+The objective of this project was to practice creating **interfaces using HTML and CSS**, mainly working with positioning, styling, buttons, and links.
 
-A proposta de simular um celular também permite explorar diferentes formas de apresentar elementos de uma página web de maneira criativa.
+The idea of simulating a mobile phone also provides an opportunity to explore different and creative ways of presenting elements on a web page.
 
-## Como executar
+## How to Run
 
-1. Clone este repositório:
+1. Clone this repository:
 
 ```bash
 git clone git@github.com:italokisame/Projeto-social.git
 ```
 
-2. Entre na pasta do projeto:
+2. Enter the project folder:
 
 ```bash
 cd Projeto-social
 ```
 
-3. Abra o arquivo `index.html` no navegador.
+3. Open the `index.html` file in your browser.
 
-Não é necessário instalar nenhuma dependência.
+No dependencies need to be installed.
 
 ---
 
-Desenvolvido pelo DEV **Italo Kisame**
+Developed by DEV **Italo Kisame**
+
